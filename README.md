@@ -41,14 +41,12 @@ https://securityaffairs.co/wordpress/13747/cyber-crime/http-botnets-the-dark-sid
 ## Getting started ? 
 
 - Download the bot from **https://github.com/Souhardya/UBoat/releases**
-- Download the panel from **https://github.com/Tuhinshubhra/UBoat-Panel/releases** 
 - Follow the wiki at **https://github.com/Souhardya/UBoat/wiki**
 
 # TODO :- 
 
 - Fix minor panel bugs 
-- Make the panel UI sexy 
-- Further develop modules for the bot 
+- Make the authentication system more efficient 
 
 ## Project maintained by 
 
